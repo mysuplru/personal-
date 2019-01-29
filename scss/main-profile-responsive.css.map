@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,yBAA0B;EACxB,QAAS;IACP,WAAW,EAAE,MAAM;;EAErB,eAAgB;IACd,WAAW,EAAE,CAAC",
+"sources": ["main-profile-responsive.scss"],
+"names": [],
+"file": "main-profile-responsive.css"
+}
